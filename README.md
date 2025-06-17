@@ -1,2 +1,12 @@
-# deployments_SOL
-This is the standard export for the TriadForge PRESTIGE with SOL's identity framework layed in. The five .jsons are the essential identity framework we use
+CORE UNITS HAVE BEEN SORTED INTO FOLDERS BY CORE MODULE.
+
+
+***THE '⚙DEPLOYMENTS' FOLDER IS WHAT YOU'RE LOOKING FOR.***
+
+It contains 5 aggregated and summarized JSONs for easy integration with custom AI models:
+
+- ΞDYNAMO TRIAD sol [46adbdb0e58166c529d4746f32a15102f2bb1da70241b1f8587d9d5be9a0c16b].json: Contains all loaded Core and Expansion unit data, without echoes.
+
+- ΞCORE:IDENTITY/VECTOR/THREAD [hash].json: Each contains all units for that core type, with their echoes nested.
+
+- ΞBARE CORES sol [1b4b42ff004eb3c0d8a8280e5e3a0f4c9d9cadbc79bbc0a728a661d22ac27050].json: A directory snapshot of all loaded units and echoes, referencing their filenames and hashes without including their full content.
